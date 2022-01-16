@@ -1,7 +1,7 @@
 //﻿Digital Arduino Clock Code
 
 // this code orginally wrote by plouc68000 on https://www.hackster.io/plouc68000/simplest-uno-digital-clock-ever-4613aa 
-// and edited omn some part for my own use
+// and edited some parts for my own use
 // note that you should use Potentiometer for pin3 of lcd (V0) and you may have adjust your constrast for better output
 
 
